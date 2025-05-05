@@ -1,4 +1,4 @@
-# About Me
+## About Me
 
 I am a **Master of Science in Robotics** student with a strong foundation in robotics software development, autonomy, and simulation. I specialize in building reliable and intelligent robotic systems by combining knowledge of control theory, dynamics, kinematics, perception, artifical intelligence, and embedded development. My work spans mulit-agent systems, autonomous navigation, simulation frameworks, machine learning, and hardware-software integration. I am passionate about solving complex real-world problems in robotics through systems-level thinking and rigorous engineering practices.
 
@@ -34,9 +34,10 @@ I currently contribute to the **Robotarium** at Georgia Tech — a lab focused o
 Migrated the Robotarium backend communication from MQTT to ROS2, improving scalability and compatibility with modern robotics stacks. Developed MATLAB and Python interfaces and built publisher/subscriber and server/client logic to control multiple robots.  
 **Keywords:** ROS2, MQTT, MATLAB, Python, Distributed Systems  
 
-### 2. Sensor Integration for Realistic Simulation  
+### 2. Sensor Integration for New-Generation Robots  
 ##### Summer 2025  
 Integrating distance and INS sensors into new robot platforms to enhance real-world perception and simulation fidelity.  
+  
 Tasks include:
 - Sensor evaluation and physical integration  
 - ROS2 driver development and real-time data fusion  
@@ -50,13 +51,14 @@ Tasks include:
 ### 3. Capstone: Coordinated Aerial-Ground Path Planning  
 ##### Fall 2025 – Spring 2026  
 Designing a planning framework for heterogeneous robot teams (drones + ground robots) in the Robotarium.  
+  
 Project components:
 - CBF-enforced safety logic  
 - Simulation of joint aerial-ground task execution  
 - Real-world deployment on Robotarium ground and aerial agents  
 
 **Tools:** Python, ROS2, Robotarium API, CBFs  
-**Keywords:** Path Planning, Multi-Robot Systems, Control Barrier Functions, Simulation-to-Reality  
+**Keywords:** Path Planning, Multi-Robot Systems, Control Barrier Functions  
 **GitHub Repo** ➡️ [Coming Soon]
 
 ---
