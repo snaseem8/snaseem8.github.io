@@ -2,6 +2,8 @@
 
 I am a **Master of Science in Robotics** student with a strong foundation in robotics software development, autonomy, and simulation. I specialize in building reliable and intelligent robotic systems by combining knowledge of control theory, dynamics, kinematics, perception, artifical intelligence, and embedded development. My work spans mulit-agent systems, autonomous navigation, simulation frameworks, machine learning, and hardware-software integration. I am passionate about solving complex real-world problems in robotics through systems-level thinking and rigorous engineering practices.
 
+  
+  
 ## 🛠️ Projects
 
 ### 1. Autonomous Maze Navigation  
@@ -21,6 +23,8 @@ Predicting airline delays based on historical flight and weather data using regr
 **Keywords:** Python, scikit-learn, Pandas, Regression Models, Data Visualization  
 **GitHub Repo** ➡️ [airline_delay_prediction](https://github.com/snaseem8/airline_delay_prediction.git)
 
+
+    
 ## 🧪 Lab Work & Research
 
 I currently contribute to the **Robotarium** at Georgia Tech — a lab focused on swarm robotics and multi-agent systems. Below, I outline my ongoing and future work in the Robotarium.
@@ -53,6 +57,8 @@ Designing a planning framework for heterogeneous robot teams (drones + ground ro
 **Keywords:** Path Planning, Multi-Robot Systems, Control Barrier Functions  
 **GitHub Repo** ➡️ [Coming Soon]
 
+
+    
 ## 📬 Connect With Me
 
 - [GitHub](https://github.com/snaseem8) 🐙
