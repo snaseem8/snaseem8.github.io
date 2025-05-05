@@ -35,7 +35,7 @@ Migrated the Robotarium backend communication from MQTT to ROS2, improving scala
 **Keywords:** ROS2, MQTT, MATLAB, Python, Distributed Systems  
 
 ### 2. Sensor Integration for Realistic Simulation  
-#### Summer 2025  
+##### Summer 2025  
 Integrating distance and INS sensors into new robot platforms to enhance real-world perception and simulation fidelity.  
 Tasks include:
 - Sensor evaluation and physical integration  
@@ -48,7 +48,7 @@ Tasks include:
 **GitHub Repo** ➡️ [Coming Soon]
 
 ### 3. Capstone: Coordinated Aerial-Ground Path Planning  
-#### Fall 2025 – Spring 2026  
+##### Fall 2025 – Spring 2026  
 Designing a planning framework for heterogeneous robot teams (drones + ground robots) in the Robotarium.  
 Project components:
 - CBF-enforced safety logic  
