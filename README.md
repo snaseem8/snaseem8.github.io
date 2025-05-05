@@ -10,18 +10,18 @@ I am a **Master of Science in Robotics** student with a strong foundation in rob
 Developed a ROS2-based system for navigating a maze with the TurtleBot3 Burger. The project integrates computer vision, LiDAR, odometry, PID control, and SLAM to enable the robot to detect road signs, avoid obstacles, and follow dynamic waypoints. Navigation behaviors were built modularly across packages, combining object tracking, environment mapping, and motion control into a full autonomy stack.
 
 **Keywords:** ROS2, TurtleBot3, SLAM, Computer Vision, LiDAR, PID Control, Autonomous Navigation  
-GitHub Repo ➡️ [autonomous_maze_navigation](https://github.com/snaseem8/autonomous_maze_navigation.git)
+**GitHub Repo** ➡️ [autonomous_maze_navigation](https://github.com/snaseem8/autonomous_maze_navigation.git)
 
 ### 2. RoboJackets: RoboWrestling Team  
 Contributed to the software stack for autonomous sumo-style robots in Georgia Tech’s RoboJackets team. Developed sensor integration pipelines, opponent detection logic, and real-time decision-making systems using C++ and ROS2. Starting Summer 2025, I will lead the design and build of a personal bot, including mechanical CAD and 3D printing, custom PCB design and wiring, and advanced algorithm development to refine competitive strategy and control.
 
 **Keywords:** C++, Object-Oriented Programming, State Machines, Real-Time Robotics, Embedded Systems, SolidWorks, PCB Design  
-GitHub Repo ➡️ [robowrestling](https://github.com/snaseem8/robowrestling.git)
+**GitHub Repo** ➡️ [robowrestling](https://github.com/snaseem8/robowrestling.git)
 
 ### 3. Airline Delay Prediction (ML)  
 Predicting airline delays based on historical flight and weather data using regression models. Includes preprocessing pipelines, feature engineering, and model comparisons.  
 **Keywords:** Python, scikit-learn, Pandas, Regression Models, Data Visualization  
-➡️ [airline_delay_prediction](https://github.com/snaseem8/airline_delay_prediction.git)
+**GitHub Repo** ➡️ [airline_delay_prediction](https://github.com/snaseem8/airline_delay_prediction.git)
 
 ---
 
@@ -43,7 +43,7 @@ Tasks include:
 
 **Expected Outcomes:** Accurate sensor-based localization for SLAM/obstacle avoidance and improved simulation-to-reality match.  
 **Keywords:** ROS2, Sensor Fusion, Hardware Integration, Simulation Fidelity, Robotics Research  
-➡️ [Coming Soon]
+**GitHub Repo** ➡️ [Coming Soon]
 
 ### 3. Capstone: Coordinated Aerial-Ground Path Planning (Fall 2025 – Spring 2026)  
 Designing a planning framework for heterogeneous robot teams (drones + ground robots) in the Robotarium.  
@@ -54,7 +54,7 @@ Project components:
 
 **Tools:** Python, ROS2, Robotarium API, CBFs  
 **Keywords:** Path Planning, Multi-Robot Systems, Control Barrier Functions, Simulation-to-Reality  
-➡️ [Coming Soon]
+**GitHub Repo** ➡️ [Coming Soon]
 
 ---
 
