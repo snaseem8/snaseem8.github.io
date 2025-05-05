@@ -29,11 +29,13 @@ Predicting airline delays based on historical flight and weather data using regr
 
 I currently contribute to the **Robotarium** at Georgia Tech — a lab focused on swarm robotics and multi-agent systems. Below, I outline my ongoing and future work in the Robotarium.
 
-### 1. Robotarium Backend Migration (Spring 2025)  
+### 1. Robotarium Backend Migration  
+#### (Spring 2025)  
 Migrated the Robotarium backend communication from MQTT to ROS2, improving scalability and compatibility with modern robotics stacks. Developed MATLAB and Python interfaces and built publisher/subscriber and server/client logic to control multiple robots.  
 **Keywords:** ROS2, MQTT, MATLAB, Python, Distributed Systems  
 
-### 2. Sensor Integration for Realistic Simulation (Summer 2025)  
+### 2. Sensor Integration for Realistic Simulation  
+#### (Summer 2025)  
 Integrating distance and INS sensors into new robot platforms to enhance real-world perception and simulation fidelity.  
 Tasks include:
 - Sensor evaluation and physical integration  
@@ -45,7 +47,8 @@ Tasks include:
 **Keywords:** ROS2, Sensor Fusion, Hardware Integration, Simulation Fidelity, Robotics Research  
 **GitHub Repo** ➡️ [Coming Soon]
 
-### 3. Capstone: Coordinated Aerial-Ground Path Planning (Fall 2025 – Spring 2026)  
+### 3. Capstone: Coordinated Aerial-Ground Path Planning  
+#### (Fall 2025 – Spring 2026)  
 Designing a planning framework for heterogeneous robot teams (drones + ground robots) in the Robotarium.  
 Project components:
 - CBF-enforced safety logic  
