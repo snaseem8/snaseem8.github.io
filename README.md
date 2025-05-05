@@ -1,64 +1,66 @@
 # About Me
 
-Welcome to my personal portfolio! I am a **Master of Science in Robotics student** with a strong foundation in robotics software development, autonomy, and simulation. I specialize in building reliable and intelligent robotic systems by combining knowledge of control theory, perception, and embedded development. My work spans autonomous navigation, simulation frameworks, machine learning, and hardware-software integration. I am passionate about solving complex real-world problems in robotics through systems-level thinking and rigorous engineering practices.
+I am a **Master of Science in Robotics student** with a strong foundation in robotics software development, autonomy, and simulation. I specialize in building reliable and intelligent robotic systems by combining knowledge of control theory, dynamics, kinematics, perception, artifical intelligence, and embedded development. My work spans mulit-agent systems, autonomous navigation, simulation frameworks, machine learning, and hardware-software integration. I am passionate about solving complex real-world problems in robotics through systems-level thinking and rigorous engineering practices.
 
 ---
 
 ## 🛠️ Projects
 
 ### 1. Autonomous Maze Navigation  
-A wall-following robot that autonomously navigates an unknown maze using IR sensors and decision-state logic, implemented in C for Arduino. Developed control strategies for reliable traversal and included fault-tolerant edge detection and recovery.  
-**Keywords:** Embedded C, Autonomous Navigation, Sensor Fusion, Robotics  
-➡️ [Link to Repo]
+Developed a ROS2-based system for navigating a maze with the TurtleBot3 Burger. The project integrates computer vision, LiDAR, odometry, PID control, and SLAM to enable the robot to detect road signs, avoid obstacles, and follow dynamic waypoints. Navigation behaviors were built modularly across packages, combining object tracking, environment mapping, and motion control into a full autonomy stack.
 
-### 2. RoboJackets: RoboWrestling Software  
-Developing autonomous sumo-style robots using C++ and ROS2. Built sensor integration pipelines, opponent detection logic, and real-time decision-making systems for robot behavior in a competitive wrestling arena.  
-**Keywords:** C++, Object-Oriented Programming, ROS2, Real-Time Robotics, State Machines  
-➡️ [Link to Repo or RoboJackets page]
+**Keywords:** ROS2, TurtleBot3, SLAM, Computer Vision, LiDAR, PID Control, Autonomous Navigation 
+➡️ [autonomous_maze_navigation](https://github.com/snaseem8/autonomous_maze_navigation.git)
+
+### 2. RoboJackets: RoboWrestling Team  
+Contributed to the software stack for autonomous sumo-style robots in Georgia Tech’s RoboJackets team. Developed sensor integration pipelines, opponent detection logic, and real-time decision-making systems using C++ and ROS2. Starting Summer 2025, I will lead the design and build of a personal bot, including mechanical CAD and 3D printing, custom PCB design and wiring, and advanced algorithm development to refine competitive strategy and control.
+
+**Keywords:** C++, Object-Oriented Programming, State Machines, Real-Time Robotics, Embedded Systems, SolidWorks, PCB Design  
+➡️ [robowrestling](https://github.com/snaseem8/robowrestling.git)
 
 ### 3. Airline Delay Prediction (ML)  
-Predicting airline delays based on historical flight and weather data using regression and classification models. Includes preprocessing pipelines, feature engineering, and model comparisons.  
+Predicting airline delays based on historical flight and weather data using regression models. Includes preprocessing pipelines, feature engineering, and model comparisons.  
 **Keywords:** Python, scikit-learn, Pandas, Regression Models, Data Visualization  
-➡️ [Link to Notebook or Repo]
+➡️ [airline_delay_prediction](https://github.com/snaseem8/airline_delay_prediction.git)
 
 ---
 
 ## 🧪 Lab Work & Research
 
-I currently contribute to the **Robotarium** at Georgia Tech — a lab focused on swarm robotics and multi-agent systems. My work involves designing and programming distributed robotic behaviors, integrating autonomy into simulated and physical robot swarms, and advancing research in collaborative robotic systems.
+I currently contribute to the **Robotarium** at Georgia Tech — a lab focused on swarm robotics and multi-agent systems. Below, I outline my ongoing and future work in the Robotarium.
 
 ### 1. Robotarium Backend Migration (Spring 2025)  
-Migrated the Robotarium backend communication from MQTT to ROS2, improving scalability and compatibility with modern robotics stacks. Developed MATLAB and Python interfaces and built publisher/subscriber logic to control multiple robots.  
+Migrated the Robotarium backend communication from MQTT to ROS2, improving scalability and compatibility with modern robotics stacks. Developed MATLAB and Python interfaces and built publisher/subscriber and server/client logic to control multiple robots.  
 **Keywords:** ROS2, MQTT, MATLAB, Python, Distributed Systems  
-➡️ [Link to example code or documentation, if available]
 
 ### 2. Sensor Integration for Realistic Simulation (Summer 2025)  
 Integrating distance and INS sensors into new robot platforms to enhance real-world perception and simulation fidelity.  
 Tasks include:
 - Sensor evaluation and physical integration  
 - ROS2 driver development and real-time data fusion  
-- Simulation model creation mimicking sensor behavior  
+- Simulation model creation mimicking sensor behavior
+- Deployment on physcial test-bed robots
 
 **Expected Outcomes:** Accurate sensor-based localization for SLAM/obstacle avoidance and improved simulation-to-reality match.  
 **Keywords:** ROS2, Sensor Fusion, Hardware Integration, Simulation Fidelity, Robotics Research  
-➡️ [Future repo placeholder or "Coming Summer 2025"]
+➡️ [Coming Soon]
 
 ### 3. Capstone: Coordinated Aerial-Ground Path Planning (Fall 2025 – Spring 2026)  
 Designing a planning framework for heterogeneous robot teams (drones + ground robots) in the Robotarium.  
 Project components:
 - CBF-enforced safety logic  
 - Simulation of joint aerial-ground task execution  
-- Real-world deployment on Robotarium ground agents  
+- Real-world deployment on Robotarium ground and aerial agents  
 
-**Tools:** Python, ROS2, Robotarium API, RRT*, CBFs  
+**Tools:** Python, ROS2, Robotarium API, CBFs  
 **Keywords:** Path Planning, Multi-Robot Systems, Control Barrier Functions, Simulation-to-Reality  
-➡️ [Placeholder repo or planning doc]
+➡️ [Coming Soon]
 
 ---
 
 ## 📬 Connect With Me
 
-- [GitHub](https://github.com/shahmeel)  
-- [LinkedIn](https://linkedin.com/in/shahmeel)  
-- 📄 [Download My Resume](https://shahmeel.github.io/resume.pdf)  
-- 📧 [Email Me](mailto:snaseem8@gatech.edu)
+- [GitHub](https://github.com/snaseem8)  
+- [LinkedIn](https://www.linkedin.com/in/snaseem7/)  
+- 📄 [Download My Resume]()  
+- 📧 [Email](mailto:snaseem8@gatech.edu)
