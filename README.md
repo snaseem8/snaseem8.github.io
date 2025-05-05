@@ -9,14 +9,14 @@ I am a **Master of Science in Robotics** student with a strong foundation in rob
 ### 1. Autonomous Maze Navigation  
 Developed a ROS2-based system for navigating a maze with the TurtleBot3 Burger. The project integrates computer vision, LiDAR, odometry, PID control, and SLAM to enable the robot to detect road signs, avoid obstacles, and follow dynamic waypoints. Navigation behaviors were built modularly across packages, combining object tracking, environment mapping, and motion control into a full autonomy stack.
 
-**Keywords:** ROS2, TurtleBot3, SLAM, Computer Vision, LiDAR, PID Control, Autonomous Navigation 
-➡️ [autonomous_maze_navigation](https://github.com/snaseem8/autonomous_maze_navigation.git)
+**Keywords:** ROS2, TurtleBot3, SLAM, Computer Vision, LiDAR, PID Control, Autonomous Navigation
+GitHub Repo ➡️ [autonomous_maze_navigation](https://github.com/snaseem8/autonomous_maze_navigation.git)
 
 ### 2. RoboJackets: RoboWrestling Team  
 Contributed to the software stack for autonomous sumo-style robots in Georgia Tech’s RoboJackets team. Developed sensor integration pipelines, opponent detection logic, and real-time decision-making systems using C++ and ROS2. Starting Summer 2025, I will lead the design and build of a personal bot, including mechanical CAD and 3D printing, custom PCB design and wiring, and advanced algorithm development to refine competitive strategy and control.
 
 **Keywords:** C++, Object-Oriented Programming, State Machines, Real-Time Robotics, Embedded Systems, SolidWorks, PCB Design  
-➡️ [robowrestling](https://github.com/snaseem8/robowrestling.git)
+GitHub Repo ➡️ [robowrestling](https://github.com/snaseem8/robowrestling.git)
 
 ### 3. Airline Delay Prediction (ML)  
 Predicting airline delays based on historical flight and weather data using regression models. Includes preprocessing pipelines, feature engineering, and model comparisons.  
@@ -62,5 +62,5 @@ Project components:
 
 - [GitHub](https://github.com/snaseem8)  
 - [LinkedIn](https://www.linkedin.com/in/snaseem7/)  
-- 📄 [Download My Resume]()  
+- 📄 [Resume]()  
 - 📧 [Email](mailto:snaseem8@gatech.edu)
