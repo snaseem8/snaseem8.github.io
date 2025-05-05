@@ -9,7 +9,7 @@ I am a **Master of Science in Robotics** student with a strong foundation in rob
 ### 1. Autonomous Maze Navigation  
 Developed a ROS2-based system for navigating a maze with the TurtleBot3 Burger. The project integrates computer vision, LiDAR, odometry, PID control, and SLAM to enable the robot to detect road signs, avoid obstacles, and follow dynamic waypoints. Navigation behaviors were built modularly across packages, combining object tracking, environment mapping, and motion control into a full autonomy stack.
 
-**Keywords:** ROS2, TurtleBot3, SLAM, Computer Vision, LiDAR, PID Control, Autonomous Navigation
+**Keywords:** ROS2, TurtleBot3, SLAM, Computer Vision, LiDAR, PID Control, Autonomous Navigation  
 GitHub Repo ➡️ [autonomous_maze_navigation](https://github.com/snaseem8/autonomous_maze_navigation.git)
 
 ### 2. RoboJackets: RoboWrestling Team  
