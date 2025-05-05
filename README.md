@@ -1,6 +1,4 @@
-# Shahmeel Naseem | Portfolio
-
-Welcome to my personal portfolio! I am a **Robotics Engineer** with expertise in **Simulation**, **C++ Development**, and **Robotic Autonomy**.
+Welcome to my personal portfolio! I am a **Master of Science in Robotics Student** with expertise in **Simulation**, **C++ Development**, and **Robotic Autonomy**.
 
 ## Connect With Me
 
