@@ -2,7 +2,7 @@
 
 - [GitHub](https://github.com/snaseem8) 🐙
 - [LinkedIn](https://www.linkedin.com/in/snaseem7/) 💼
-- [Resume]() 📄
+- [Download My Resume]() 📄
 - [snaseem8@gatech.edu](mailto:snaseem8@gatech.edu) 📧
 
 
