@@ -1,3 +1,9 @@
+## About Me
+
+I am a **Master of Science in Robotics** student with a strong foundation in robotics software development, autonomy, and simulation. I specialize in building reliable and intelligent robotic systems by combining knowledge of control theory, dynamics, kinematics, perception, artifical intelligence, and embedded development. My work spans mulit-agent systems, autonomous navigation, simulation frameworks, machine learning, and hardware-software integration. I am passionate about solving complex real-world problems in robotics through systems-level thinking and rigorous engineering practices.
+
+
+  
 ## 📬 Connect With Me
 
 - [GitHub](https://github.com/snaseem8) 🐙
@@ -6,12 +12,6 @@
 - [snaseem8@gatech.edu](mailto:snaseem8@gatech.edu) 📧
 
 
-
-## About Me
-
-I am a **Master of Science in Robotics** student with a strong foundation in robotics software development, autonomy, and simulation. I specialize in building reliable and intelligent robotic systems by combining knowledge of control theory, dynamics, kinematics, perception, artifical intelligence, and embedded development. My work spans mulit-agent systems, autonomous navigation, simulation frameworks, machine learning, and hardware-software integration. I am passionate about solving complex real-world problems in robotics through systems-level thinking and rigorous engineering practices.
-
-  
   
 ## 🛠️ Projects
 
