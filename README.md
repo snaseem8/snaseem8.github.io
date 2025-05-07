@@ -1,3 +1,12 @@
+## 📬 Connect With Me
+
+- [GitHub](https://github.com/snaseem8) 🐙
+- [LinkedIn](https://www.linkedin.com/in/snaseem7/) 💼
+- [Resume]() 📄
+- [Email](mailto:snaseem8@gatech.edu) 📧
+
+
+
 ## About Me
 
 I am a **Master of Science in Robotics** student with a strong foundation in robotics software development, autonomy, and simulation. I specialize in building reliable and intelligent robotic systems by combining knowledge of control theory, dynamics, kinematics, perception, artifical intelligence, and embedded development. My work spans mulit-agent systems, autonomous navigation, simulation frameworks, machine learning, and hardware-software integration. I am passionate about solving complex real-world problems in robotics through systems-level thinking and rigorous engineering practices.
@@ -53,12 +62,3 @@ Designing a planning framework for heterogeneous robot teams (drones + ground ro
 **Tools:** Python, ROS2, Robotarium API, CBFs  
 **Keywords:** Path Planning, Multi-Robot Systems, Control Barrier Functions  
 **GitHub Repo** ➡️ [Coming Soon]
-
-
-    
-## 📬 Connect With Me
-
-- [GitHub](https://github.com/snaseem8) 🐙
-- [LinkedIn](https://www.linkedin.com/in/snaseem7/) 💼
-- [Resume]() 📄
-- [Email](mailto:snaseem8@gatech.edu) 📧
