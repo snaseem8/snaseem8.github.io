@@ -8,7 +8,7 @@ I am a **Master of Science in Robotics** student with a strong foundation in rob
 
 - [GitHub](https://github.com/snaseem8) 🐙
 - [LinkedIn](https://www.linkedin.com/in/snaseem7/) 💼
-- [Download My Resume]() 📄
+- [Download My Resume](./Shahmeel_Naseem_Resume.pdf) 📄
 - [snaseem8@gatech.edu](mailto:snaseem8@gatech.edu) 📧
 
 
