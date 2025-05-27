@@ -22,7 +22,7 @@ Developed a ROS2-based system for navigating a maze with the TurtleBot3 Burger. 
 **GitHub Repo** ➡️ [autonomous_maze_navigation](https://github.com/snaseem8/autonomous_maze_navigation.git)
 
 ### 2. RoboJackets: RoboWrestling Team (Fall 2024 - Spring 2026)  
-Contributed to the software stack for a 500g autonomous sumo-style robot in Georgia Tech’s RoboJackets team. Developed sensor integration pipelines, opponent detection logic, and real-time decision-making systems using C++. Starting Summer 2025, I will contribute to the mechanical and software development of a 3kg robot, including CAD, 3D printing, and advanced algorithm development to refine competitive strategy and control.
+Contributed to the software stack for a 500g autonomous sumo-style robot in Georgia Tech’s RoboJackets team. Developed sensor integration pipelines, opponent detection logic, and real-time decision-making systems using C++. Starting Summer 2025, I will contribute to the mechanical and software development of a 500g Remote Controlled robot, including CAD, 3D printing, and advanced algorithm development to refine competitive strategy and control.
 
 **Keywords:** C++, Object-Oriented Programming, State Machines, Real-Time Robotics, Embedded Systems, SolidWorks, PCB Design  
 **GitHub Repo** ➡️ [robowrestling](https://github.com/snaseem8/robowrestling.git)
