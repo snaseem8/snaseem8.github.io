@@ -36,7 +36,7 @@ Predicting airline delays based on historical flight and weather data using regr
     
 ## 🧪 Lab Work & Research
 
-I currently contribute to the **Robotarium** at Georgia Tech — a lab focused on swarm robotics and multi-agent systems. Below, I outline my ongoing and future work in the Robotarium.
+I currently contribute to the **Robotarium** at Georgia Tech — a lab focused on swarm robotics and multi-agent systems. The Robotarium project provides a remotely accessible swarm robotics research platform that remains freely accessible to anyone. Currently, Robotics research requires significant investments in terms of manpower and resources to competitively participate. However, we believe that anyone with new, amazing ideas should be able to see their algorithms deployed on real robots, rather than purely simulated. In order to make this vision a reality, we have created a remote-access, robotics lab where anyone can upload and test their ideas on real robotic hardware. Below, I outline my ongoing and future work in the Robotarium.
 
 ### 1. Robotarium Backend Migration (Spring 2025 - Present)  
 Migrating the Robotarium backend communication from MQTT to ROS2, improving scalability and compatibility with modern robotics stacks. Developed MATLAB and Python interfaces and built publisher/subscriber and server/client logic to control multiple robots.  
