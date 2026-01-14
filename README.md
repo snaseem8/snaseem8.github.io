@@ -15,12 +15,12 @@ I am a **Master of Science in Robotics** student with a strong foundation in rob
   
 ## 🛠️ Projects
 
-### 1. Autonomous Maze Navigation (Spring 2025)  
+### 1. Autonomous Maze Navigation (Jan 2025 - May 2025)  
 Developed a ROS2-based system for navigating a maze with the TurtleBot3 Burger. The project integrates computer vision, LiDAR, odometry, PID control, and SLAM to enable the robot to detect road signs, avoid obstacles, and follow dynamic waypoints. Navigation behaviors were built modularly across packages, combining object tracking, environment mapping, and motion control into a full autonomy stack.
 
 **Keywords:** ROS2, TurtleBot3, SLAM, Computer Vision, LiDAR, PID Control, Autonomous Navigation  
 
-### 2. RoboJackets: RoboWrestling Team (Fall 2024 - Spring 2026)  
+### 2. RoboJackets: RoboWrestling Team (Aug 2024 - May 2026)  
 Contributed to the software stack for a 500g autonomous sumo-style robot in Georgia Tech’s RoboJackets team. Developed sensor integration pipelines, opponent detection logic, and real-time decision-making systems using C++. Developed and implemented embedded control software in C++ on a Teensy microcontroller, integrating sensor inputs,
 motor drivers, and actuator control for autonomous operation. Designed and programmed real-time navigation, opponent detection, and strategy logic using state machines and
 sensor fusion techniques. Led software development using Git, managing feature branches, code reviews, and iterative integration with hardware and electrical teams.
@@ -28,7 +28,7 @@ sensor fusion techniques. Led software development using Git, managing feature b
 **Keywords:** C++, Object-Oriented Programming, State Machines, Real-Time Robotics, Embedded Systems, SolidWorks, PCB Design  
 **GitHub Repo** ➡️ [robowrestling](https://github.com/snaseem8/robowrestling.git)
 
-### 3. Airline Delay Prediction (Spring 2025)  
+### 3. Airline Delay Prediction (Jan 2025 - May 2025)  
 Predicting airline delays based on historical flight and weather data using regression models. Includes preprocessing pipelines, feature engineering, and model comparisons.  
 **Keywords:** Python, scikit-learn, Pandas, Regression Models, Data Visualization  
 **GitHub Repo** ➡️ [airline_delay_prediction](https://github.com/snaseem8/airline_delay_prediction.git)
