@@ -39,11 +39,11 @@ Predicting airline delays based on historical flight and weather data using regr
 
 I currently contribute to the **Robotarium** at Georgia Tech — a lab focused on swarm robotics and multi-agent systems. The Robotarium project provides a remotely accessible swarm robotics research platform that remains freely accessible to anyone. Currently, Robotics research requires significant investments in terms of manpower and resources to competitively participate. However, we believe that anyone with new, amazing ideas should be able to see their algorithms deployed on real robots, rather than purely simulated. In order to make this vision a reality, we have created a remote-access, robotics lab where anyone can upload and test their ideas on real robotic hardware. Below, I outline my ongoing and future work in the Robotarium.
 
-### 1. Robotarium Backend Migration (Spring 2025 - Present)  
+### 1. Robotarium Backend Migration (Feb 2025 - Dec 2025)  
 Migrating the Robotarium backend communication from MQTT to ROS2, improving scalability and compatibility with modern robotics stacks. Developed MATLAB and Python interfaces and built publisher/subscriber and server/client logic to control multiple robots.  
 **Keywords:** ROS2, MQTT, MATLAB, Python, Distributed Systems  
 
-### 2. Sensor Integration for New-Generation Robots (Summer 2025 - Present)  
+### 2. Sensor Integration for New-Generation Robots (May 2025 - Dec 2025)  
 Integrating distance, INS, and encoder sensors into new robot platforms to enhance real-world perception and simulation fidelity. Tasks include:
 - Sensor evaluation and physical integration  
 - ROS2 driver development and real-time data fusion  
@@ -53,16 +53,17 @@ Integrating distance, INS, and encoder sensors into new robot platforms to enhan
 **Expected Outcomes:** Accurate sensor-based data for use on a remote-access swarm robotics testbed and improved simulation-to-reality match.  
 **Keywords:** ROS2, Sensor Fusion, Hardware Integration, Simulation Fidelity, Robotics Research  
 
-### 3. Capstone: Integrating SLAM with a Remote-Access Swarm Robotics Testbed (Fall 2025 – Spring 2026)
+### 3. Decentralized Coverage Control in GPS-Denied Environments (Jan 2026 - May 2026)
 
-Use the newly integrated sensing technology in the Robotarium to enable SLAM-based localization and obstacle mapping. Once validated in a proof-of-concept, extend this functionality across the entire testbed to support all Robotarium users.
+Develop and deploy decentralized coverage control algorithms for multi-robot systems operating in GPS-denied environments. The project focuses on achieving effective area coverage using only local sensing and neighbor-to-neighbor communication, eliminating reliance on global tracking or centralized state information. Solutions will be validated in simulation and deployed on the Robotarium to enable scalable, truly decentralized multi-agent behavior.
 
 **Key Components**
-- SLAM implementation for Robotarium agents  
-- Integration with CBF-based safety logic for collision avoidance  
-- Deployment in Python and MATLAB simulation 
-- Real-world deployment on Robotarium ground agents  
+- Decentralized coverage control using local sensing and limited communication  
+- Local environment representation and density estimation without global position information  
+- Integration with CBF-based safety logic for collision and constraint enforcement  
+- Deployment in Python and MATLAB simulation environments  
+- Real-world deployment on Robotarium ground agents using onboard sensing  
 
-**Tools:** Python, ROS2, Robotarium API, SLAM libraries (e.g., GMapping, Cartographer), Control Barrier Functions  
-**Keywords:** SLAM, Obstacle Mapping, Multi-Robot Systems, Path Planning, Safety-Critical Control    
+**Tools:** Python, MATLAB, ROS2, Robotarium API, Control Barrier Functions, Local Sensing & Estimation Methods  
+**Keywords:** Coverage Control, GPS-Denied Navigation, Decentralized Control, Multi-Robot Systems, Safety-Critical Control    
 **GitHub Repo** ➡️ [Coming Soon]
